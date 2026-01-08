@@ -1,0 +1,23 @@
+Under the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 (RFCTLARR Act), the procedure for seeking enhancement of compensation (or challenging other aspects like market value, solatium, interest for delays) is through an application under Section 64 to the Collector for reference to the Land Acquisition, Rehabilitation and Resettlement (LARR) Authority.
+Limitation Period for Filing Application Under Section 64
+Section 64(1) prescribes the following strict timelines:
+	•	If the person was present (personally or through representative) when the award was made → Application must be filed within 6 weeks from the date of the Collector’s award.
+	•	In other cases → Within 6 weeks from receipt of notice under Section 21, or within 6 months from the date of the award — whichever expires first.
+The Collector may condone delay and entertain a late application for a further period of up to 1 year (beyond the initial 6 weeks/6 months) if satisfied with sufficient cause for the delay.
+Maximum possible time: Approximately 18 months from the award date (6 months + 1 year condonation), at the Collector’s discretion.
+Your Client’s Situation: 8 Years Delay After Acknowledgment
+“Acknowledgment of subdivision of property” likely means your client received/accepted/knew about the award (or a related apportionment/subdivision under Section 63 for multi-owner lands) around 8 years ago.
+This acknowledgment starts the clock for limitation (equivalent to receipt of notice or knowledge of the award).
+An 8-year delay far exceeds the maximum condonable period (about 18 months). The Collector has no power to condone such an extreme delay under Section 64.
+Unlike appeals to High Court under Section 74 (where delay beyond 120 days cannot be condoned), Section 64 allows limited condonation by the Collector — but courts interpret it strictly, and 8 years is unprecedented and unlikely to qualify as “sufficient cause.”
+No reported cases on Indian Kanoon or elsewhere show successful condonation after several years under Section 64 — delays beyond 1-2 years are routinely rejected.
+Possible Outcomes and Advice
+	•	The Collector will almost certainly reject the application as time-barred.
+	•	Even if filed, the LARR Authority (on reference) or courts on appeal/writ would uphold the bar.
+	•	Acknowledgment strengthens the case against condonation, as it proves knowledge of the award long ago.
+Limited Alternatives (Rarely Successful in Such Long Delays)
+	1	Writ Petition under Article 226 — Argue fraud, non-service of proper notice, or that the award was never “made known” despite acknowledgment (if subdivision was separate). High Courts occasionally entertain extreme equities, but 8 years of inaction makes laches (unreasonable delay) a strong defense for the State.
+	2	If compensation remains unpaid/deposited → Argue continuing wrong and claim interest under Section 80, but this does not revive the barred reference for enhancement.
+	3	If acquisition involved multiple stages → Check if any part qualifies under Section 24 transitional provisions (for pre-2014 starts), but unlikely after 8 years.
+Recommendation: File the Section 64 application immediately (with detailed explanation of “sufficient cause” for the entire delay, e.g., illness, fraud, lack of knowledge despite acknowledgment). If rejected as time-barred (likely), challenge via writ in High Court. Success is low, but it preserves the record. Gather evidence showing why the delay should be excused (e.g., proof that acknowledgment did not convey full award details).
+Consult local counsel urgently with exact dates of award, notice, acknowledgment/subdivision, and possession/payment status for case-specific strategy.
