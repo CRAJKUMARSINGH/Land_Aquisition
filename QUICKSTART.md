@@ -95,6 +95,7 @@ npm run test:robustness    # 1500 virtual users
 
 ## 📖 Documentation
 
+- **[HOW_TO_USE.md](HOW_TO_USE.md)** - Complete user guide (START HERE!)
 - **[README.md](README.md)** - Main documentation
 - **[DEPLOYMENT.md](DEPLOYMENT.md)** - Deployment guide
 - **[DOCUMENTATION.md](DOCUMENTATION.md)** - Legal documentation

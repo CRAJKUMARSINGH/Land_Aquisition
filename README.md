@@ -21,26 +21,33 @@ Comprehensive legal technology platform providing solutions for land acquisition
 
 ## 🚀 Quick Start
 
-### Development
+### For End Users (Windows)
+```bash
+# Double-click START.bat
+# Or run in terminal:
+START.bat
+```
 
+### For Developers
+
+**Development Mode:**
 ```bash
 cd landacquisition
 npm install
 npm start
 ```
-
 Access at: http://localhost:3000
 
-### Production
-
+**Production Mode:**
 ```bash
 cd landacquisition
 npm run build
 pip install -r requirements.txt
 python server.py
 ```
-
 Access at: http://localhost:5000
+
+📖 **[Read Complete How-To Guide](HOW_TO_USE.md)** for detailed instructions
 
 ## 📁 Project Structure
 
@@ -75,9 +82,12 @@ landacquisition/          # Main application
 
 ## 📖 Documentation
 
+- **[How to Use Guide](HOW_TO_USE.md)** - Complete user guide for all users
+- **[Quick Start Guide](QUICKSTART.md)** - Get started in 5 minutes
 - **[Deployment Guide](DEPLOYMENT.md)** - Production deployment instructions
+- **[Legal Documentation](DOCUMENTATION.md)** - Legal research and case studies
 - **[App README](landacquisition/README.md)** - Detailed app documentation
-- **[Integration Summary](landacquisition/INTEGRATION_SUMMARY.md)** - Feature integration details
+- **[Project Summary](PROJECT_SUMMARY.md)** - Consolidation summary
 
 ## 🧪 Testing
 
